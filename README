@@ -2,7 +2,7 @@
 Mūsu izstrādātā programma ir paradzētu lai redzētu biržas elektrības cenas un lai varētu noteikt vai konkrētejā stundā vajadzētu vai nevajadzētu izmantot elektrību. Šim kodam ir 2 funkcijas:
 1.Noteikt cenu konkrētai stundai.
 2.Ja nevēlās redzēt cenu konkrētai stundai un terminālī ievada (no) tad tiek izveidots excel fails ar visas dienas cenām katrā stundā.
-Priekš šī koda mēs izmantojām 3 bibliotēkas
-1.nordpool - Šī bibliotēka iegūst datus no nordpool par elektrības cenām
+Priekš šī koda mēs izmantojām 3 bibliotēkas.
+1.nordpool - Šī bibliotēka iegūst datus no nordpool par elektrības cenām.
 2.datetime - Sī bibliotēka ir lietota lai varētu strādāt ar datumiem un laikiem un manipulēt ar tiem.
-3.pandas - Sī bibliotēka ir izmantota lai strādātu ar datu tabulām
+3.pandas - Sī bibliotēka ir izmantota lai strādātu ar datu tabulām.
